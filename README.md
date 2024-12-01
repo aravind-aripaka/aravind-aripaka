@@ -23,5 +23,5 @@ Data structures and their practical applications in AI systems.
 Email: aaripaka@buffalo.edu
 LinkedIn
 GitHub
-LeetCode
-YouTube
+
+https://youtu.be/Gvmu02tUpns?feature=shared
