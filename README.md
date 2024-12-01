@@ -2,7 +2,7 @@
 
 I'm **Aravind Aripaka**, a tech enthusiast transitioning into **MLOps**, blending my passion for data, machine learning, and engineering. Here's more about my journey:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![image](https://github.com/user-attachments/assets/507b31d9-82dd-46c8-a63a-e709bc2250bc)
 
 ### 🔭 I’m currently working on:
 - Exploring **LangChain** and **multi-RAG (Retrieval-Augmented Generation)** for advanced AI workflows.
