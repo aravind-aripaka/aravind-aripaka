@@ -19,6 +19,10 @@ My transition into MLOps and related tech like LangChain.
 Insights from my YouTube journey on sharing tech content effectively.
 Data structures and their practical applications in AI systems.
 
+Languages and Tools:
+
+ aws  azure  c  css3  docker  express  figma  firebase  flask  gcp  git  html5  java  javascript  mongodb  mssql  mysql  nginx nodejs  opencv  pandas  postgresql  python  pytorch  react  redis  scikit_learn  seaborn  selenium  sqlite  tensorflow  typescript
+ 
 📫 How to reach me:
 Email: aaripaka@buffalo.edu
 LinkedIn
